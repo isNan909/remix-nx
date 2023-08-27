@@ -1,0 +1,7 @@
+node_modules
+.code
+.idea
+/.idea
+dist
+build
+.DS_store
